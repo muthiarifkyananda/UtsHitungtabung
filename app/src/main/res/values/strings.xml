@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS_PemMob</string>
+    <string name="calculate">Hitung</string>
+    <string name="result">Hasil akan ditampilkan di sini</string>
+    <string name="input_radius">Masukkan radius tabung</string>
+    <string name="input_height">Masukkan tinggi tabung</string>
+    <string name="calculate_button">Hitung</string>
+    <string name="result_message">Hasil: </string>
+</resources>
